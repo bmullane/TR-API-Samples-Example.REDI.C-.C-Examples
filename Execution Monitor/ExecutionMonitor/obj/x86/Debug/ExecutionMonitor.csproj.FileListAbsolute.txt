@@ -1,0 +1,47 @@
+\\redi.com\dfsroot\personal\socacd\Documents\Visual Studio 2010\Projects\ExecutionMonitor\ExecutionMonitor\bin\Debug\ExecutionMonitor.exe
+\\redi.com\dfsroot\personal\socacd\Documents\Visual Studio 2010\Projects\ExecutionMonitor\ExecutionMonitor\bin\Debug\ExecutionMonitor.pdb
+\\redi.com\dfsroot\personal\socacd\Documents\Visual Studio 2010\Projects\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\ResolveAssemblyReference.cache
+\\redi.com\dfsroot\personal\socacd\Documents\Visual Studio 2010\Projects\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\Interop.RediLib.dll
+\\redi.com\dfsroot\personal\socacd\Documents\Visual Studio 2010\Projects\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\ExecutionMonitor.csproj.ResolveComReference.cache
+\\redi.com\dfsroot\personal\socacd\Documents\Visual Studio 2010\Projects\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\MainWindow.baml
+\\redi.com\dfsroot\personal\socacd\Documents\Visual Studio 2010\Projects\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\MainWindow.g.cs
+\\redi.com\dfsroot\personal\socacd\Documents\Visual Studio 2010\Projects\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\App.g.cs
+\\redi.com\dfsroot\personal\socacd\Documents\Visual Studio 2010\Projects\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\ExecutionMonitor_MarkupCompile.cache
+\\redi.com\dfsroot\personal\socacd\Documents\Visual Studio 2010\Projects\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\ExecutionMonitor.g.resources
+\\redi.com\dfsroot\personal\socacd\Documents\Visual Studio 2010\Projects\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\ExecutionMonitor.Properties.Resources.resources
+\\redi.com\dfsroot\personal\socacd\Documents\Visual Studio 2010\Projects\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\GenerateResource.read.1.tlog
+\\redi.com\dfsroot\personal\socacd\Documents\Visual Studio 2010\Projects\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\GenerateResource.write.1.tlog
+\\redi.com\dfsroot\personal\socacd\Documents\Visual Studio 2010\Projects\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\ExecutionMonitor.exe
+\\redi.com\dfsroot\personal\socacd\Documents\Visual Studio 2010\Projects\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\ExecutionMonitor.pdb
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\Interop.RediLib.dll
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\ExecutionMonitor.csproj.ResolveComReference.cache
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\ExecutionMonitor.exe
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\ExecutionMonitor.pdb
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\bin\Debug\ExecutionMonitor.exe
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\bin\Debug\ExecutionMonitor.pdb
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\ExecutionMonitor.csprojResolveAssemblyReference.cache
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\MainWindow.baml
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\MainWindow.g.cs
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\App.g.cs
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\ExecutionMonitor_MarkupCompile.cache
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\ExecutionMonitor.g.resources
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\ExecutionMonitor.Properties.Resources.resources
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\ExecutionMonitor.csproj.GenerateResource.Cache
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\Interop.RediLib.dll
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\ExecutionMonitor.csproj.ResolveComReference.cache
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\ExecutionMonitor.exe
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\ExecutionMonitor.pdb
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\ExecutionMonitor.csprojResolveAssemblyReference.cache
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\MainWindow.baml
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\MainWindow.g.cs
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\App.g.cs
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\ExecutionMonitor_MarkupCompile.cache
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\ExecutionMonitor.g.resources
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\ExecutionMonitor.Properties.Resources.resources
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\ExecutionMonitor\obj\x86\Debug\ExecutionMonitor.csproj.GenerateResource.Cache
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\ExecutionMonitor\bin\Debug\ExecutionMonitor.exe
+\\redi.com\dfsroot\personal\parkm\Desktop\ExecutionMonitor\ExecutionMonitor\ExecutionMonitor\bin\Debug\ExecutionMonitor.pdb
+\\redi.com\dfsroot\personal\parkm\Documents\API\C#\Execution Monitor\ExecutionMonitor\obj\x86\Debug\Interop.RediLib.dll
+\\redi.com\dfsroot\personal\parkm\Documents\API\C#\Execution Monitor\ExecutionMonitor\obj\x86\Debug\ExecutionMonitor.csproj.ResolveComReference.cache
+\\redi.com\dfsroot\personal\parkm\Documents\API\C#\Execution Monitor\ExecutionMonitor\obj\x86\Debug\ExecutionMonitor.exe
+\\redi.com\dfsroot\personal\parkm\Documents\API\C#\Execution Monitor\ExecutionMonitor\obj\x86\Debug\ExecutionMonitor.pdb

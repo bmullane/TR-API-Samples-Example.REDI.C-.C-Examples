@@ -1,0 +1,21 @@
+﻿<Window x:Class="ExecutionMonitor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="REDIPlus Executions" Height="420" Width="965">
+    <DataGrid AutoGenerateColumns="False" ItemsSource="{Binding Executions, Mode=TwoWay}" Height="375" HorizontalAlignment="Left" Name="ExecutionsView" VerticalAlignment="Top" Width="943" >
+        <DataGrid.Columns>
+            <DataGridTextColumn Header="Time" Binding="{Binding Time}"  IsReadOnly="True"></DataGridTextColumn>
+            <DataGridTextColumn Header="Br Seq" Binding="{Binding BrSeq}" IsReadOnly="True" ></DataGridTextColumn>
+            <DataGridTextColumn Header="Display Account" Binding="{Binding Account}" IsReadOnly="True" ></DataGridTextColumn>
+            <DataGridTextColumn Header="Match Side" Binding="{Binding Side}" IsReadOnly="True" ></DataGridTextColumn>
+            <DataGridTextColumn Header="Quantity" Binding="{Binding Quantity}" IsReadOnly="True" ></DataGridTextColumn>
+            <DataGridTextColumn Header="Exec Qty" Binding="{Binding ExecQuantity}" IsReadOnly="True" ></DataGridTextColumn>
+            <DataGridTextColumn Header="Symbol" Binding="{Binding Symbol}" IsReadOnly="True" ></DataGridTextColumn>
+            <DataGridTextColumn Header="Exec Pr" Binding="{Binding ExecPr}" IsReadOnly="True" ></DataGridTextColumn>
+            <DataGridTextColumn Header="Exch" Binding="{Binding Exchange}" IsReadOnly="True" ></DataGridTextColumn>
+            <DataGridTextColumn Header="Contra" Binding="{Binding Contra}" IsReadOnly="True" ></DataGridTextColumn>
+            <DataGridTextColumn Header="Entered Time" Binding="{Binding EnteredTime}" IsReadOnly="True" ></DataGridTextColumn>
+            <DataGridTextColumn Header="TIF" Binding="{Binding TIF}" IsReadOnly="True" ></DataGridTextColumn>
+        </DataGrid.Columns>
+    </DataGrid>
+</Window>
